@@ -34,7 +34,7 @@
   <a href="https://www.instagram.com/m._ester.ab?igsh=MTFya29sZWNzdHc0Mg%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://myaccount.google.com/?hl=pt_BR&utm_source=OGB&utm_medium=act&gar=WzEyMF0" target="_blank">
+  <a href="mailto:mariaester.bezerra52@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/maria-ester-alves-bezerra-139674367/" target="_blank">
